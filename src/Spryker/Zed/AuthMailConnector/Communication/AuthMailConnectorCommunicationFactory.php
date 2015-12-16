@@ -9,7 +9,7 @@ use Spryker\Zed\Kernel\Communication\AbstractCommunicationFactory;
 use Spryker\Zed\Mail\Business\MailFacade;
 use Spryker\Zed\AuthMailConnector\AuthMailConnectorDependencyProvider;
 
-class AuthMailConnectorDependencyContainer extends AbstractCommunicationFactory
+class AuthMailConnectorCommunicationFactory extends AbstractCommunicationFactory
 {
 
     /**
