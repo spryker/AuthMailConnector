@@ -4,6 +4,12 @@
 
 AuthMailConnector provides a plugin for extending the Auth to use it in Mail. This extension supports functionality like passwords reset mail.
 
+**DEPRECATED - This module is not continued at this point.**
+
+**The replacements:**
+- spryker/user-password-reset
+- spryker/user-password-reset-mail
+
 ## Installation
 
 ```
